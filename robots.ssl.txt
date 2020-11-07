@@ -1,0 +1,4 @@
+# Sitemap is also available on /sitemap.xml
+Sitemap: https://www.gpfl.co.za/sitemap.xml
+User-agent: *
+
